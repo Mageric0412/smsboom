@@ -83,6 +83,6 @@ def main(phone):
 
 if __name__ == '__main__':
     # 手机号
-    phone = '19902623069'
+    phone = 'xxxxxx'
     # sendSMS(APIS[-1], phone)
     main(phone)
